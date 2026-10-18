@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was Peyton Manning's passer rating for the season?",
+    "expected_source": "super_bowl_50.md"
+  },
+  {
+    "question": "A mermaid stopped to rest on the sandy beach by what village?",
+    "expected_source": "warsaw.md"
+  },
+  {
+    "question": "When did Dyrrachium  fall to the Normans?",
+    "expected_source": "normans.md"
+  },
+  {
+    "question": "What did his design avoid in not having a commutator?",
+    "expected_source": "nikola_tesla.md"
+  },
+  {
+    "question": "What commonality do alternate machine models, such as random access machines, share with Turing machines?",
+    "expected_source": "computational_complexity_theory.md"
+  },
+  {
+    "question": "What is a common punishment in Singapore?",
+    "expected_source": "teacher.md"
+  },
+  {
+    "question": "What did Luther need to do to avoid excommunication? ",
+    "expected_source": "martin_luther.md"
+  },
+  {
+    "question": "Where was Tracy Wolfson announcing from during the Super Bowl 50 game?",
+    "expected_source": "super_bowl_50.md"
+  },
+  {
+    "question": "What does Warsaw's mixture of architectural styles reflect?",
+    "expected_source": "warsaw.md"
+  },
+  {
+    "question": "What major conquest did Tancred play a roll in?",
+    "expected_source": "normans.md"
+  }
+]
