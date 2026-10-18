@@ -1,0 +1,12 @@
+[
+  {"question": "What pigment makes leaves green and absorbs light for photosynthesis?", "expected_source": "photosynthesis.md"},
+  {"question": "Which gas is released as a by-product when light splits water in plants?", "expected_source": "photosynthesis.md"},
+  {"question": "Who was the first Roman emperor?", "expected_source": "roman_empire.md"},
+  {"question": "When did the Western Roman Empire fall and who deposed the last emperor?", "expected_source": "roman_empire.md"},
+  {"question": "Which planet is the largest and has the Great Red Spot?", "expected_source": "solar_system.md"},
+  {"question": "Why is Venus the hottest planet?", "expected_source": "solar_system.md"},
+  {"question": "What is transpiration and how does evaporation start the water cycle?", "expected_source": "water_cycle.txt"},
+  {"question": "Who invented the movable-type printing press in Mainz?", "expected_source": "printing_press.txt"},
+  {"question": "How many chambers does the human heart have?", "expected_source": "human_heart.md"},
+  {"question": "Which valves keep blood flowing in one direction in the heart?", "expected_source": "human_heart.md"}
+]
